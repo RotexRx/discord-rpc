@@ -26,7 +26,7 @@ Customize the Rich Presence information by modifying the object located in `rpc.
      rpc.setActivity({
         ...
      });
-  }
+  
 
 ## Usage
 
